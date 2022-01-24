@@ -1,0 +1,10 @@
+package ru.ustinov;
+
+public class NewC {
+
+    private String df;
+
+    private String newString;
+
+    private String string;
+}
